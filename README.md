@@ -213,6 +213,11 @@ erDiagram
 2. Browse and play songs.
 3. Create and manage playlists.
 
+## Demo Video
+Check out our [demo video]([https://drive.google.com/file/d/your_video_id/view](https://drive.google.com/file/d/19FUiMgfi2lA4rfl4C1-k8AqEbEP6Hj-W/view?usp=drivesdk)) to see the music streaming system in action!
+switch to 1080p for better viewing
+
+
 ### Example Queries
 ```sql
 -- Fetch all songs by a specific artist
