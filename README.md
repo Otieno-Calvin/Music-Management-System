@@ -33,7 +33,7 @@ This stems from the demand for personalized music experiences and effective data
 ### Steps
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/music-streaming-system.git
+git clone https://github.com/otieno-calvin/music-streaming-system.git
 
 # Navigate to the project directory
 cd music-streaming-system
