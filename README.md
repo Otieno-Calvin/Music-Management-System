@@ -217,6 +217,7 @@ erDiagram
 Check out our [demo video](https://drive.google.com/file/d/19FUiMgfi2lA4rfl4C1-k8AqEbEP6Hj-W/view?usp=drivesdk) to see the music streaming system in action!
 Switch to 1080p for better viewing
 
+<video width="720" height="240" controls> <source src="https://drive.google.com/file/d/19FUiMgfi2lA4rfl4C1-k8AqEbEP6Hj-W/view?usp=drivesdk" type="video/mp4"> </video>
 
 ### Example Queries
 ```sql
